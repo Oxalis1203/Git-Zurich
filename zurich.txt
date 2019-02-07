@@ -8,5 +8,5 @@ Pros
 Cons
 ===============
 
--expensive
-
+- expensive
+- too cold
